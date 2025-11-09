@@ -1,0 +1,4 @@
+http://username:password@host:port
+http://host:port
+
+You can use online free proxy lists or buy high quality rotating residential proxies from https://discord.gg/V5kEEzRZrG
